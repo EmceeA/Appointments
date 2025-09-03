@@ -5,7 +5,7 @@ namespace Appointments.Api.IntegrationTests
         [Fact]
         public void Test1()
         {
-
+            //
         }
     }
 }
